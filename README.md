@@ -1,30 +1,11 @@
-## BUII Website
+# BUII and BCPI Medical Training Websites
 
-**Live Site:** https://iammehedi1.github.io/Bangladesh-Ultrasound-And-Imaging-Institute
+Two static institute websites present course options, admission requirements and ways to contact the institutes on desktop and mobile.
 
-A professional, responsive website for **Bangladesh Ultrasound & Imaging Institute (BUII)** and **Barakah Community Paramedical Institute (BCPI)** - two medical training institutions in Dhaka, Bangladesh.
+## Source
 
-### About
+- [BUII homepage](index.html) covers diagnostic imaging and ultrasound courses, batch schedules and admissions.
+- [BCPI companion page](bcpi_index.html) covers the Community Paramedic program in Bengali.
+- Both pages use HTML, CSS and JavaScript with phone, WhatsApp and map links.
 
-- **BUII** - BTEB approved ultrasound and imaging training institute offering CMU, DMU, ADMS, and other diagnostic sonography courses
-- **BCPI** - Nursing Council approved institution offering Community Paramedic (CP) courses
-
-### Features
-
-- Fully responsive design (mobile, tablet, desktop)
-- Bilingual support (English & Bengali)
-- Mobile-optimized with sticky call buttons
-- Smooth scroll navigation
-- WhatsApp & phone integration
-- Google Maps integration
-- Modern UI with gradient accents
-
-### Tech Stack
-
-- Pure HTML5, CSS3, JavaScript
-- Google Fonts (Inter, Noto Sans Bengali)
-- No build tools required
-
-### Quick Start
-
-Simply open `index.html` or `bcpi_index.html` in a browser.
+Open the HTML files locally or visit the [published site](https://iammehedi1.github.io/Bangladesh-Ultrasound-And-Imaging-Institute/).
